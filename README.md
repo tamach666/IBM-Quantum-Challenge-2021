@@ -1,4 +1,7 @@
 # IBM-Quantum-Challenge-2021
 
-Name:Tamal Acharya
+Name: Tamal Acharya
+
 Score: 14
+
+No. of parameters: 
